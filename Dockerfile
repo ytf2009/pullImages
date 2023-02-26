@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-provider-vsphere/cpi/release/manager:v1.2.1
+FROM gcr.io/cloud-provider-vsphere/csi/release/driver:v2.4.3
